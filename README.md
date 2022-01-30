@@ -3,7 +3,7 @@
 
 ## Objectif
 
-Ce projet a pour but de réaliser un cadenas. Il est composé d'un servomoteur pour représenter l'ouverture ou la fermeture du cadenas, d'un encodeur pour le gérer, d'un écran lcd pour afficher les informations à l'utilisateur et d'une carte SD pour logger des informations. De plus, ce matériel est commandé par un STM32.
+Ce projet a pour but de réaliser un cadenas. Il est composé d'un servomoteur pour représenter l'ouverture ou la fermeture du cadenas, d'un encodeur pour le gérer, d'un écran lcd pour afficher les informations à l'utilisateur et d'une carte SD pour logger des informations. Tous ces composants sont commandés par un STM32.
 ## Réalisation
 ### Matériel
 Le matériel nécessaire pour ce projet est :
