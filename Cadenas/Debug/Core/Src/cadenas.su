@@ -1,0 +1,17 @@
+cadenas.c:18:6:copy	24	static
+cadenas.c:28:5:compare	24	static
+cadenas.c:40:6:initLCD	8	static
+cadenas.c:59:6:open	8	static
+cadenas.c:66:6:close	8	static
+cadenas.c:73:5:verifCombiUart	24	static
+cadenas.c:88:6:changeTabUart	24	static
+cadenas.c:98:6:changeCombiUart	72	static
+cadenas.c:113:6:buttonManager	16	static
+cadenas.c:188:6:selectManager	64	static
+cadenas.c:260:6:miseAJourLcd	8	static
+cadenas.c:270:6:ManageButtonEncoder	16	static
+cadenas.c:291:6:CallUart	16	static
+cadenas.c:301:6:write_log	1200	static
+cadenas.c:334:6:set_time	32	static
+cadenas.c:369:6:set_alarm	48	static
+cadenas.c:396:11:get_time	80	static
